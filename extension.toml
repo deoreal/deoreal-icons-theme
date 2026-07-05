@@ -1,0 +1,22 @@
+id = "deoreal-icons-theme"
+name = "Deoreal Icons Theme"
+version = "0.0.1"
+schema_version = 1
+description = "Deoreal's curated colored Zed icons"
+repository = "https://github.com/deoreal/deoreal-icons-theme"
+authors = ["Deoreal","TheRedXD", "Zed Industries <support@zed.dev>"]
+themes = []
+icon_themes = ["icon_themes/deoreal-icons-theme.json"]
+languages = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[slash_commands]
+
+[indexed_docs_providers]
